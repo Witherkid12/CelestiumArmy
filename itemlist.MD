@@ -1,0 +1,3 @@
+Supreme Team - Broadsword - Melee Damage - 696969 base - Rarity Rainbow, -12 - Fires projectile Supreme Ghost - Auto Reuse - 120*120 - Use Time 1 - Use Animation 10 - Knockback 6 - 65 Mythril Ore, 10 Mushroom @ Mythril Anvil
+Frying Pan - Broadsword - Melee Damage - 48 base - Rarity Green, 2 (MUST CHANGE) - No projectile - No Auto Reuse - 40*40 - Use Time 112 - Use Animation 112 - Knockback 420 - 20 Iron Bar, 15 Hellstone, 1 Slap Hand @ Anvil
+Phantastic - Bow - Ranged Damage - 588 base - Rarity Red, 10 - Fires Arrows, Requires arrows - Auto Reuse - 34*74 - Use Time 3 - Use Animation 3 - Knockback 2 - Shoot Speed 86 - 99 Vortex Fragments @ Ancient Manipulator (WILL CHANGE)
